@@ -1,4 +1,4 @@
-<h1>This Repo contains Complete Core Java Concepts With Examples.</h1>
+<h1>This Repository contains Complete Core Java Concepts With Examples.</h1>
 <h2> Class Fundamentals.
  Object & Object reference.
  Constructor & De Constructor.
